@@ -2,7 +2,7 @@
 Obtain valid p-values for single molecule microscopy.
 
 This repository contains code implementing methods described in the following publication:
-"Don’t Be Fooled by Randomness: Valid p-Values for Single Molecule Microscopy" [1].
+"Don’t Be Fooled by Randomness: Valid p-Values for Single Molecule Microscopy" [1]. Please cite the corresponding paper if you use code from this repository.
 
 The repository contains the following folders:
 - 2CLASTA: MATLAB implementation of the 2-CLASTA method [2], which allows to calculate a p-value based on 2-color SMLM localization maps. The null hypothesis is a random distribution of biomolecules.
